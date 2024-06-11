@@ -7,3 +7,4 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm/64 jeessy/ddns-go:latest
 --platform=linux/arm/64 stashapp/stash
 --platform=linux/arm/64 portainer/portainer-ce
+--platform=linux/arm/64 minio/minio
