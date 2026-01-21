@@ -1,2 +1,3 @@
 #支持指定架构
 --platform=linux/arm64 mzz2017/v2raya:latest
+--platform=linux/arm/v7 mzz2017/v2raya:latest
